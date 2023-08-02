@@ -9,6 +9,7 @@
     условие: http://neerc.ifmo.ru/school/archive/2010-2011/ru-olymp-team-russia-2010-statements.pdf
     разбор: http://neerc.ifmo.ru/school/archive/2010-2011/ru-olymp-team-russia-2010-analysis.pdf
     тестирующая система: https://informatics.msk.ru/mod/statements/view.php?chapterid=2980#1
+                         https://codeforces.com/gym/100043/attachments  (файловый ввод)
 
 */
 
